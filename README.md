@@ -98,9 +98,9 @@ This project helped practice:
 ## 💻 Installation
 
 Clone the repository
-
+lemlemfeleke6-spec
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com//snake-game.git
 ```
 
 Open the project
