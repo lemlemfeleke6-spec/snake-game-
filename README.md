@@ -169,7 +169,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Lemlem Feleke**
 
 GitHub: https://github.com/lemlemfeleke6-spec
 
